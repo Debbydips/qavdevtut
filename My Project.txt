@@ -1,0 +1,4 @@
+angular prject
+$ create a folder
+$ from the terminal
+-npm install --force
